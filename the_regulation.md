@@ -25,4 +25,4 @@ will be offered to members who claims the most contribution or the most active m
 
 Members should notice that the fact that the Academy herits from a real school in the history does not suggest the Academy is qualified for issuing degrees or provide any level of education. The Academy is just a community by definition, using the title with a memorial purpose.
 
-Academy is now focus on 
+Academy is now focus on the community of python development. 
